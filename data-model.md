@@ -28,6 +28,9 @@
 - resumo
 - data
 
+  <img width="925" height="380" alt="image" src="https://github.com/user-attachments/assets/bd2dd5ac-94e4-4339-ba49-87e733daf74c" />
+
+
 ## Relacionamentos
 - Usuário 1:N Treinos
 - Usuário 1:N Medidas
